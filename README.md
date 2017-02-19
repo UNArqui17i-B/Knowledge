@@ -43,6 +43,10 @@ JavaScript runtime built on Chrome's V8 JavaScript engine
 
 
 ## Haskell
+Purely Funcional Programming Language 
+
+  - [Haskel in 5 steps](https://wiki.haskell.org/Haskell_in_5_steps)
+  - [Web Development Frameworks with Haskell](https://wiki.haskell.org/Web/Frameworks)
 
 
 ## Other
