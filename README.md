@@ -42,7 +42,7 @@ JavaScript runtime built on Chrome's V8 JavaScript engine
 ## Python
 
 
-## Haskell(https://www.haskell.org/)
+## [Haskell](https://www.haskell.org/)
 Purely Funcional Programming Language 
 
   - [Haskel in 5 steps](https://wiki.haskell.org/Haskell_in_5_steps)
