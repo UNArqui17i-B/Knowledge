@@ -44,7 +44,10 @@ Open source programming language that makes it easy to build simple, reliable, a
 ## Ruby
 
 
-## Python
+## Eve (Python)
+Python Rest API Framework
+  - [Installation](http://python-eve.org/install.html)
+  - [Quickstart](http://python-eve.org/quickstart.html)
 
 
 ## [Haskell](https://www.haskell.org/)
@@ -54,6 +57,8 @@ Purely Funcional Programming Language
   - [Web Development Frameworks with Haskell](https://wiki.haskell.org/Web/Frameworks)
   - [Haskell Tutorial](https://github.com/UNArqui17i-B/Knowledge/blob/master/Haskell/Haskell.pdf)
 
+## Mongodb
+  - [Tutorial](https://www.tutorialspoint.com/mongodb/mongodb_tutorial.pdf)
 
 ## Other
   - [GitHub Flow](https://guides.github.com/introduction/flow/): used to handle the changes in the different repos
