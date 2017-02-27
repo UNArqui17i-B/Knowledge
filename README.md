@@ -32,6 +32,15 @@ JavaScript runtime built on Chrome's V8 JavaScript engine
   - [Yarn](https://yarnpkg.com/lang/en/): Fastest dependencies installer
   - [Best npm packages searcher](https://npms.io/)
   - [Mongoose](http://mongoosejs.com/): MongoDB object modeling for NodeJS
+  - [Yeoman](http://yeoman.io/): Scaffolding tool
+  - Web frameworks:
+    - [ExpressJS](http://expressjs.com/): minimal and flexible Node.js web application framework
+    - [KoaJS](http://koajs.com/): web framework designed by the team behind Express, which aims to be a smaller, more expressive, and more robust foundation for web applications and APIs
+    - [SailsJS](http://sailsjs.com/): designed to emulate the familiar MVC pattern of frameworks like Ruby on Rails, but with support for the requirements of modern apps: data-driven APIs with a scalable, service-oriented architecture
+  - Test frameworks:
+    - [Mocha](https://mochajs.org/): run serially, allowing for flexible and accurate reporting, while mapping uncaught exceptions to the correct test cases
+    - [AVA](https://github.com/avajs/ava): runs your tests concurrently, which is especially beneficial for IO heavy tests. In addition, test files are run in parallel as separate processes, giving you even better performance and an isolated environment for each test file
+    - [Jest](https://facebook.github.io/jest/): mocking library for functions and modules
 
 ## [GoLang](https://golang.org/)
 Open source programming language that makes it easy to build simple, reliable, and efficient software
@@ -44,7 +53,7 @@ Open source programming language that makes it easy to build simple, reliable, a
 ## Ruby
 
 
-## Eve (Python)
+## [Eve (Python)](http://python-eve.org/)
 Python Rest API Framework
   - [Installation](http://python-eve.org/install.html)
   - [Quickstart](http://python-eve.org/quickstart.html)
@@ -57,8 +66,12 @@ Purely Funcional Programming Language
   - [Web Development Frameworks with Haskell](https://wiki.haskell.org/Web/Frameworks)
   - [Haskell Tutorial](https://github.com/UNArqui17i-B/Knowledge/blob/master/Haskell/Haskell.pdf)
 
-## Mongodb
+## [MongoDB](https://docs.mongodb.com/)
+Scalable No-SQL database
+
   - [Tutorial](https://www.tutorialspoint.com/mongodb/mongodb_tutorial.pdf)
+  - [GridFS](https://docs.mongodb.com/manual/core/gridfs/): storing and retrieving files that exceed the BSON-document size limit of 16 MB
+  
 
 ## Other
   - [GitHub Flow](https://guides.github.com/introduction/flow/): used to handle the changes in the different repos
