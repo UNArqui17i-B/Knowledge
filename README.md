@@ -14,7 +14,7 @@ Library to workwith Web Components, a platform feature for extending HTML and co
     - [Build an ES2015/ES6 app with the Polymer Starter Kit](https://codelabs.developers.google.com/codelabs/polymer-es2015/index.html?index=..%2F..%2Findex#0)
     - [Data Visualization Using Polymer and WebGL](https://codelabs.developers.google.com/codelabs/polymer-webgl/index.html?index=..%2F..%2Findex#0)
     - [Polymer Summit 2016](https://codelabs.developers.google.com/polymer-summit-2016)
-    
+
 
 ## [Docker](https://www.docker.com/)
 Software containerization platform
@@ -50,7 +50,12 @@ Open source programming language that makes it easy to build simple, reliable, a
   - [GoDoc–Rest Test](https://godoc.org/github.com/ant0ine/go-json-rest/rest/test): Module for testing REST connection.
 
 
-## Ruby
+## [Ruby on Rails](http://rubyonrails.org/)
+Ruby on Rails is an open source full-stack web application framework written in Ruby. It follows the popular MVC framework model and is known for its "convention over configuration" approach to application development.
+
+- [Installation](http://installrails.com/)
+- [RoR Guides](http://guides.rubyonrails.org/)
+- [A Quick (and Hopefully Painless) Ride Through Ruby (with Cartoon Foxes)](http://poignant.guide/book/chapter-3.html)
 
 
 ## [Eve (Python)](http://python-eve.org/)
@@ -60,7 +65,7 @@ Python Rest API Framework
 
 
 ## [Haskell](https://www.haskell.org/)
-Purely Funcional Programming Language 
+Purely Funcional Programming Language
 
   - [Haskel in 5 steps](https://wiki.haskell.org/Haskell_in_5_steps)
   - [Web Development Frameworks with Haskell](https://wiki.haskell.org/Web/Frameworks)
@@ -71,7 +76,7 @@ Scalable No-SQL database
 
   - [Tutorial](https://www.tutorialspoint.com/mongodb/mongodb_tutorial.pdf)
   - [GridFS](https://docs.mongodb.com/manual/core/gridfs/): storing and retrieving files that exceed the BSON-document size limit of 16 MB
-  
+
 
 ## Other
   - [GitHub Flow](https://guides.github.com/introduction/flow/): used to handle the changes in the different repos
