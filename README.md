@@ -77,6 +77,12 @@ Scalable No-SQL database
   - [Tutorial](https://www.tutorialspoint.com/mongodb/mongodb_tutorial.pdf)
   - [GridFS](https://docs.mongodb.com/manual/core/gridfs/): storing and retrieving files that exceed the BSON-document size limit of 16 MB
 
+## [CouchDB](http://docs.couchdb.org/en/latest/index.html)
+HTTP accessible No-SQL database
+
+  - [REST API](http://docs.couchdb.org/en/latest/http-api.html)
+  - [Attachments](http://docs.couchdb.org/en/latest/api/document/attachments.html)
+  - [Docker image](https://hub.docker.com/_/couchdb/)
 
 ## Other
   - [GitHub Flow](https://guides.github.com/introduction/flow/): used to handle the changes in the different repos
