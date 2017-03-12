@@ -23,6 +23,7 @@ Software containerization platform
   - [Best practices for writing Dockerfiles](https://docs.docker.com/engine/userguide/eng-image/dockerfile_best-practices/)
   - [Docker Compose](https://docs.docker.com/compose/): Tool for defining and running multi-container Docker applications
   - [Docker compose project example](https://github.com/cheminfo/roc-eln-docker)
+  - [Create automated build from a repo](https://docs.docker.com/docker-hub/builds/)
 
 ## [NodeJS](https://github.com/nodejs/node)
 JavaScript runtime built on Chrome's V8 JavaScript engine
