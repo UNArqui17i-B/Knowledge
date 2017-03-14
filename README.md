@@ -46,6 +46,7 @@ JavaScript runtime built on Chrome's V8 JavaScript engine
 ## [GoLang](https://golang.org/)
 Open source programming language that makes it easy to build simple, reliable, and efficient software
 
+  - [How to write Go code](https://golang.org/doc/code.html)
   - [Parallel Downloads Golang](https://coderwall.com/p/uz2noa/fast-parallel-downloads-in-golang-with-accept-ranges-and-goroutines): Allows parallel downloads
   - [GoDoc–Rest](https://godoc.org/github.com/ant0ine/go-json-rest/rest): Package to do REST API
   - [GoDoc–Rest Test](https://godoc.org/github.com/ant0ine/go-json-rest/rest/test): Module for testing REST connection.
