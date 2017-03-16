@@ -60,12 +60,15 @@ Ruby on Rails is an open source full-stack web application framework written in 
 - [RoR Guides](http://guides.rubyonrails.org/)
 - [A Quick (and Hopefully Painless) Ride Through Ruby (with Cartoon Foxes)](http://poignant.guide/book/chapter-3.html)
 
-
-## [Eve (Python)](http://python-eve.org/)
-Python Rest API Framework
+## [Python](http://flask-restful.readthedocs.io/en/0.3.5/)
+Eve - Python Rest API Framework
   - [Installation](http://python-eve.org/install.html)
   - [Quickstart](http://python-eve.org/quickstart.html)
-
+Flask-RESTful
+  - [Installation](http://flask-restful.readthedocs.io/en/0.3.5/installation.html)
+  - [Quickstart](http://flask-restful.readthedocs.io/en/0.3.5/quickstart.html)
+CouchDB connection
+  - [Introduction](https://pythonhosted.org/CouchDB/)
 
 ## [Haskell](https://www.haskell.org/)
 Purely Funcional Programming Language
@@ -86,6 +89,7 @@ HTTP accessible No-SQL database
   - [REST API](http://docs.couchdb.org/en/latest/http-api.html)
   - [Attachments](http://docs.couchdb.org/en/latest/api/document/attachments.html)
   - [Docker image](https://hub.docker.com/_/couchdb/)
+  - [Docker image 2.0.0](https://hub.docker.com/r/klaemo/couchdb/)
 
 ## Other
   - [GitHub Flow](https://guides.github.com/introduction/flow/): used to handle the changes in the different repos
