@@ -60,15 +60,14 @@ Ruby on Rails is an open source full-stack web application framework written in 
 - [RoR Guides](http://guides.rubyonrails.org/)
 - [A Quick (and Hopefully Painless) Ride Through Ruby (with Cartoon Foxes)](http://poignant.guide/book/chapter-3.html)
 
-## [Python](http://flask-restful.readthedocs.io/en/0.3.5/)
-Eve - Python Rest API Framework
-  - [Installation](http://python-eve.org/install.html)
-  - [Quickstart](http://python-eve.org/quickstart.html)
-Flask-RESTful
-  - [Installation](http://flask-restful.readthedocs.io/en/0.3.5/installation.html)
-  - [Quickstart](http://flask-restful.readthedocs.io/en/0.3.5/quickstart.html)
-CouchDB connection
-  - [Introduction](https://pythonhosted.org/CouchDB/)
+## [Python]
+  - Eve - Python Rest API Framework (http://python-eve.org)
+    - [Installation](http://python-eve.org/install.html)
+    - [Quickstart](http://python-eve.org/quickstart.html)
+  - Flask-RESTful (http://flask-restful.readthedocs.io/en/0.3.5/)
+    - [Installation](http://flask-restful.readthedocs.io/en/0.3.5/installation.html)
+    - [Quickstart](http://flask-restful.readthedocs.io/en/0.3.5/quickstart.html)
+  - CouchDB connection (https://pythonhosted.org/CouchDB/)
 
 ## [Haskell](https://www.haskell.org/)
 Purely Funcional Programming Language
