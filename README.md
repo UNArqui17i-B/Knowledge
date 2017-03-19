@@ -52,6 +52,8 @@ Open source programming language that makes it easy to build simple, reliable, a
   - [GoDoc–Rest](https://godoc.org/github.com/ant0ine/go-json-rest/rest): Package to do REST API
   - [GoDoc–Rest Test](https://godoc.org/github.com/ant0ine/go-json-rest/rest/test): Module for testing REST connection.
   - [Send email](https://gist.github.com/jpillora/cb46d183eca0710d909a): Send email using Go (Golang) via GMail with net/smtp
+  - [Gomail](https://github.com/go-gomail/gomail): Send email using Go (Golang) via Gmail with net/smtp easier
+    -[Documentation](https://godoc.org/gopkg.in/gomail.v2) 
 
 ## [Ruby on Rails](http://rubyonrails.org/)
 Ruby on Rails is an open source full-stack web application framework written in Ruby. It follows the popular MVC framework model and is known for its "convention over configuration" approach to application development.
@@ -60,7 +62,7 @@ Ruby on Rails is an open source full-stack web application framework written in 
 - [RoR Guides](http://guides.rubyonrails.org/)
 - [A Quick (and Hopefully Painless) Ride Through Ruby (with Cartoon Foxes)](http://poignant.guide/book/chapter-3.html)
 
-## [Python]
+## [Python](https://www.python.org/)
   - Eve - Python Rest API Framework (http://python-eve.org)
     - [Installation](http://python-eve.org/install.html)
     - [Quickstart](http://python-eve.org/quickstart.html)
