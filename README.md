@@ -98,6 +98,7 @@ High Performance TCP/HTTP Load Balancer
   - [Load balancer example](https://serversforhackers.com/load-balancing-with-haproxy)
   - [Docker hub image](https://hub.docker.com/_/haproxy/)
   - [Introduction to HAProxy](https://www.digitalocean.com/community/tutorials/an-introduction-to-haproxy-and-load-balancing-concepts)
+  - [Document specification](https://cbonte.github.io/haproxy-dconv/1.7/configuration.html)
 
 ## Other
   - [GitHub Flow](https://guides.github.com/introduction/flow/): used to handle the changes in the different repos
